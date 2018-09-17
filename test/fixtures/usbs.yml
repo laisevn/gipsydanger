@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  current_page: 1
+  per_page: 1
+  total_entries: 1
+
+two:
+  current_page: 1
+  per_page: 1
+  total_entries: 1
